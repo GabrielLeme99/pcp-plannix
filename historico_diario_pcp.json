@@ -1,0 +1,47 @@
+{
+  "status_adm_europark.json": {
+    "2026-11-06": {
+      "total": 61,
+      "projeto": 61,
+      "producao": 61,
+      "expedicao": 49,
+      "montagem": 0
+    }
+  },
+  "status_estação_real.json": {
+    "2026-11-06": {
+      "total": 648,
+      "projeto": 648,
+      "producao": 348,
+      "expedicao": 253,
+      "montagem": 179
+    }
+  },
+  "status_lavador.json": {
+    "2026-11-06": {
+      "total": 32,
+      "projeto": 32,
+      "producao": 3,
+      "expedicao": 0,
+      "montagem": 0
+    }
+  },
+  "status_ma_colitti_maria_jose.json": {
+    "2026-11-06": {
+      "total": 90,
+      "projeto": 90,
+      "producao": 53,
+      "expedicao": 0,
+      "montagem": 0
+    }
+  },
+  "status_elev.json": {
+    "2026-11-06": {
+      "total": 56,
+      "projeto": 56,
+      "producao": 56,
+      "expedicao": 52,
+      "montagem": 52
+    }
+  }
+}

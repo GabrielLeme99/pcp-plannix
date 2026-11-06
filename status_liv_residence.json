@@ -1,0 +1,446 @@
+{
+  "VVD100": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 4611.65
+  },
+  "VVD101": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 3391.5
+  },
+  "VVD102": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 4604.3
+  },
+  "P01": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 3955.24
+  },
+  "P02": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 3004.31
+  },
+  "P03": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 2629.91
+  },
+  "P04": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 2574.8
+  },
+  "P05": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 3865.07
+  },
+  "P06": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 1993.69
+  },
+  "P07": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 1993.69
+  },
+  "P08": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 2403.57
+  },
+  "P09": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 3865.07
+  },
+  "P10": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 1993.69
+  },
+  "P11": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 1993.69
+  },
+  "P12": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 2403.57
+  },
+  "P13": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 2358.75
+  },
+  "P14": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 3865.07
+  },
+  "P15": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 1993.69
+  },
+  "P16": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 1993.69
+  },
+  "P17": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 1322.55
+  },
+  "P18": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 2358.75
+  },
+  "P19": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 4350.69
+  },
+  "P20": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 1993.69
+  },
+  "P21": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 1993.69
+  },
+  "P22": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 2403.57
+  },
+  "P23": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 3865.07
+  },
+  "P24": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 1993.69
+  },
+  "P25": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 1993.69
+  },
+  "P26": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 2403.57
+  },
+  "P27": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 3865.07
+  },
+  "P28": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 1993.69
+  },
+  "P29": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 1993.69
+  },
+  "P30": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 2403.57
+  },
+  "P31": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 3955.24
+  },
+  "P32": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 3003.7
+  },
+  "P33": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 2629.91
+  },
+  "P34": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 2574.8
+  },
+  "PM103": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 5702.16
+  },
+  "PM201": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 5702.16
+  },
+  "PM300": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 8114.14
+  },
+  "PM304": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 8114.14
+  },
+  "PM308": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 8114.14
+  },
+  "PM312": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 8114.14
+  },
+  "PM400": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 8114.14
+  },
+  "PM402": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 8114.14
+  },
+  "PM406": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 8114.14
+  },
+  "PM302": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 7993.34
+  },
+  "PM310": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 7993.34
+  },
+  "PM401": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 7993.34
+  },
+  "PM405": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 7993.34
+  },
+  "PM306": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 5984.65
+  },
+  "PM403": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 1863.05
+  },
+  "PM404": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 5863.86
+  },
+  "VP301": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 8226.41
+  },
+  "VP305": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 8226.41
+  },
+  "VP309": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 8226.41
+  },
+  "VP313": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 8226.41
+  },
+  "VP311": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 8104.95
+  },
+  "VP100": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 6830.16
+  },
+  "VP102": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 6830.16
+  },
+  "VP200": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 6830.16
+  },
+  "VP203": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 6830.16
+  },
+  "VP101": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 5019.67
+  },
+  "VP202": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 5019.67
+  },
+  "VP303": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 8104.95
+  },
+  "VP307": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 5445.8
+  },
+  "E01": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 4075.28
+  },
+  "E02": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 5710.89
+  },
+  "VVS103": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 5042.94
+  },
+  "VR01": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 6956.22
+  },
+  "VR02": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 6723.22
+  },
+  "VR03": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 6822.84
+  },
+  "VR04": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 4949.49
+  },
+  "VR05": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 6956.22
+  }
+}

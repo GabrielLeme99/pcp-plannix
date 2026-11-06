@@ -1,0 +1,434 @@
+{
+  "P05": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 8356.67
+  },
+  "P06": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 8356.67
+  },
+  "P07": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 8356.67
+  },
+  "P08": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 8356.67
+  },
+  "P09": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 8356.67
+  },
+  "P10": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 8356.67
+  },
+  "P19": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 8098.17
+  },
+  "P20": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 8098.17
+  },
+  "P21": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 8098.17
+  },
+  "P22": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 8098.17
+  },
+  "P23": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 8098.17
+  },
+  "P24": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 8098.17
+  },
+  "P01": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 8117.99
+  },
+  "P02": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 7004.46
+  },
+  "P12": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 8585.36
+  },
+  "P14": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 6732.13
+  },
+  "P15": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 7805.64
+  },
+  "P17": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 7668.98
+  },
+  "P18": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 7020.99
+  },
+  "P03": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 4225.97
+  },
+  "P04": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 5795.8
+  },
+  "P11": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 4225.97
+  },
+  "P13": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 4451.53
+  },
+  "P16": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 4877.24
+  },
+  "E01": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 4441.66
+  },
+  "E02": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 3172.7
+  },
+  "E03": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 2239.6
+  },
+  "E04": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 2397.04
+  },
+  "VVS106": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 4759.46
+  },
+  "VVS110": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 4759.46
+  },
+  "VVS206": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 4759.46
+  },
+  "VVS211": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 4759.46
+  },
+  "VR107": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 2468.31
+  },
+  "VR108": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 1087.85
+  },
+  "VR207": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 2468.31
+  },
+  "VR208": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 1087.85
+  },
+  "VVS101": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 371.28
+  },
+  "VVS102": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 371.28
+  },
+  "VVS109": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 2980.72
+  },
+  "VVS111": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 2008.6
+  },
+  "VVS112": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 963.31
+  },
+  "VVS201": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 371.28
+  },
+  "VVS202": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 371.28
+  },
+  "VVS205": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 2577.18
+  },
+  "VVS209": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 3031.49
+  },
+  "VVS210": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 2577.18
+  },
+  "VVS212": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 2008.6
+  },
+  "VVS213": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 963.31
+  },
+  "VR104": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 2986.0
+  },
+  "VR203": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 2962.36
+  },
+  "VR100": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 4071.47
+  },
+  "VR105": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 3929.17
+  },
+  "VR200": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 4071.47
+  },
+  "VR204": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 4002.32
+  },
+  "VRP01": {
+    "StatusFinal": "EXPEDIDA",
+    "Cor": "Laranja",
+    "Hex": "#FF8C00",
+    "PesoTeorico": 2821.3
+  },
+  "LJ-1001": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 623.49
+  },
+  "LJ-1002": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 2064.35
+  },
+  "LJ-1003": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 597.64
+  },
+  "LJ-1004": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 1463.69
+  },
+  "LJ-1005": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 2051.19
+  },
+  "LJ-1006": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 2051.19
+  },
+  "LJ-1007": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 2051.19
+  },
+  "LJ-1008": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 2051.19
+  },
+  "LJ-1009": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 3667.05
+  },
+  "LJ-1010": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 3667.05
+  },
+  "LJ-1011": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 3667.05
+  },
+  "LJ-1012": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 3667.05
+  },
+  "LJ-1013": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 3667.05
+  },
+  "LJ-1014": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 3667.05
+  },
+  "LJ-1015": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 3667.05
+  },
+  "LJ-1016": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 3667.05
+  },
+  "LJ-1017": {
+    "StatusFinal": "PROJETO_LIBERADO",
+    "Cor": "Azul",
+    "Hex": "#0066CC",
+    "PesoTeorico": 3667.05
+  }
+}

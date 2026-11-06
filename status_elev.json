@@ -1,0 +1,338 @@
+{
+  "VVD102": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 7210.73
+  },
+  "VVD103": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 6869.97
+  },
+  "VVD104": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 5259.91
+  },
+  "VVD200": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 7311.43
+  },
+  "VVD201": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 7202.03
+  },
+  "VVD203": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 5287.83
+  },
+  "VVD204": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 5299.03
+  },
+  "P01": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 3900.25
+  },
+  "P02": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 3934.55
+  },
+  "P03": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 3900.25
+  },
+  "P04": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 3566.53
+  },
+  "P05": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 3190.94
+  },
+  "P06": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 3554.26
+  },
+  "P07": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 3566.53
+  },
+  "P08": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 3031.5
+  },
+  "P09": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 3554.26
+  },
+  "P10": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 3566.53
+  },
+  "P11": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 3031.5
+  },
+  "P12": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 3381.65
+  },
+  "P13": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 3393.4
+  },
+  "P14": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 3031.5
+  },
+  "P15": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 3583.35
+  },
+  "P16": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 3792.42
+  },
+  "P17": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 3936.15
+  },
+  "P18": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 3760.01
+  },
+  "VVS100": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 2042.35
+  },
+  "VVS101": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 5359.78
+  },
+  "BLF01": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 3696.19
+  },
+  "BLF02": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 4110.98
+  },
+  "BLF03": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 1149.13
+  },
+  "BLF04": {
+    "StatusFinal": "PRODUZIDA",
+    "Cor": "Verde",
+    "Hex": "#228B22",
+    "PesoTeorico": 4805.85
+  },
+  "VP100": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 8658.03
+  },
+  "VP101": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 3439.81
+  },
+  "VP200": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 3277.44
+  },
+  "VP200-A": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 3439.81
+  },
+  "VP201": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 8232.96
+  },
+  "VP201-A": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 8658.03
+  },
+  "VP300": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 9285.88
+  },
+  "VP300-A": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 9683.5
+  },
+  "VP301": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 9147.29
+  },
+  "VP301-A": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 9540.13
+  },
+  "VP302": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 9285.88
+  },
+  "VP302-A": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 9683.5
+  },
+  "VP303": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 6816.13
+  },
+  "VP303-A": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 7109.25
+  },
+  "VP304": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 6816.13
+  },
+  "VP304-A": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 7109.25
+  },
+  "VP400": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 6476.31
+  },
+  "VP401": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 6476.31
+  },
+  "VP401-A": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 6773.71
+  },
+  "VP402": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 8863.28
+  },
+  "VP402-A": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 9268.88
+  },
+  "VP404": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 8863.28
+  },
+  "VP404-A": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 9268.88
+  },
+  "VP403": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 8733.14
+  },
+  "VP403-A": {
+    "StatusFinal": "MONTADA",
+    "Cor": "Roxo",
+    "Hex": "#800080",
+    "PesoTeorico": 9133.8
+  }
+}
